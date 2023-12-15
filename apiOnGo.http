@@ -1,0 +1,6 @@
+@apiOnGo_HostAddress = http://localhost:5177
+
+GET {{apiOnGo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
