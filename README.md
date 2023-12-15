@@ -104,6 +104,8 @@ Descrição: Remove um item específico do inventário com base no ID.
 
 -> PostgreSQL: O banco de dados utilizado é o PostgreSQL para armazenar os dados de forma segura e eficiente.  
 
+## Não se esqueça de instalar o banco de dados e criar uma database com o nome ONGO.
+
 ## Estrutura do Projeto
 -> A estrutura do projeto segue um padrão MVC (Model-View-Controller), utilizando conceitos como contexts, controllers, DTOs, helpers, interfaces, repositories, services e mappers para manter o código organizado e modular.
 
